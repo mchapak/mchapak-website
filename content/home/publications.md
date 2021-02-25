@@ -3,13 +3,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: true
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -34,7 +35,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 
 {{% callout note %}}
